@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2546556981
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4412a286ee0a2c3393edf0d45732975e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7e4e81b586c36fda88ba73180982b3db
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Prefabs/WallE.prefab
+- Assets/Resources/Prefabs/Wall.prefab
+- Assets/Resources/Prefabs/Obstacle.prefab
+Dependencies: []

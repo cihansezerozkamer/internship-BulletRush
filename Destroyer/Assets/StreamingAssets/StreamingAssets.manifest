@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1179582704
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: instaniatedobjects
+      Dependencies: {}
+    Info_1:
+      Name: enemys
+      Dependencies: {}
+    Info_2:
+      Name: bullets
+      Dependencies: {}
+    Info_3:
+      Name: player
+      Dependencies: {}
